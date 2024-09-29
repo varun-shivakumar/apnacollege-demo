@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repo
 <br>
-auhtor -varun
+auhtor -varun(apna college)
